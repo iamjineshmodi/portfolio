@@ -12,7 +12,7 @@ const SocialLinks = () => {
                     LinkedIn <FaLinkedin size={30} />
                 </>
             ),
-            href: 'https://www.linkedin.com/in/jay-shirgupe-650ab7233/',
+            href: 'https://www.linkedin.com/in/modijinesh/',
             style: 'rounded-tr-md',
         },
         {
@@ -22,7 +22,7 @@ const SocialLinks = () => {
                     GitHub <FaGithub size={30} />
                 </>
             ),
-            href: 'https://github.com/Jay7221',
+            href: 'https://github.com/iamjineshmodi',
         },
         {
             id: 3,
@@ -31,7 +31,7 @@ const SocialLinks = () => {
                     Mail <HiOutlineMail size={30} />
                 </>
             ),
-            href: 'mailto:jns29072003@gmail.com',
+            href: 'mailto:jmodi005@gmail.com',
         },
         {
             id: 4,

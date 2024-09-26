@@ -16,7 +16,6 @@ const App = () => {
       <Portfolio />
       <Experience />
       <Contact />
-
       <SocialLinks />
     </div>
   );

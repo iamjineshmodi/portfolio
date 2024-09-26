@@ -9,11 +9,11 @@ const About = () => {
                 </div>
                 <p className='text-xl mt-20'>
                     Hello there! I am a passionate coder with a deep interest in Mathematics and Computer Science, and I find great joy in engaging with competitive programming.
-                    Over the past two years, I have actively participated in coding contests on platforms like Codeforces and CodeChef, achieving notable milestones (including a maximum rating of 6 stars on CodeChef and reaching the Green Pupil level on Codeforces). Alongside my competitive programming journey,
+                    Over the past two years, I have actively participated in coding contests on platforms like Codeforces, CodeChef, and LeetCode.
                 </p>
                 <br />
                 <p className='text-xl mt-5'>
-                    I have also delved into the Django framework, utilizing it effectively during various hackathons. I've had the opportunity to contribute to backend application development, resulting in my team securing top-three positions on several occasions.
+                    I have also delved into the Django framework, utilizing it effectively during various hackathons and in my previous internship. I've had the opportunity to contribute to backend application development, resulting in my code currently being used in production at my previous workplace.
                     Furthermore, I possess a strong fascination with the field of Artificial Intelligence and its potential applications. This passion drives me to continually explore and learn more about AI.
                 </p>
             </div>

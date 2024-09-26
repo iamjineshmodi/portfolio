@@ -1,5 +1,5 @@
 import React from 'react'
-import HeroImage from "../assets/jay.jpeg";
+import HeroImage from "../assets/jinesh.png";
 import { HiArrowRight } from "react-icons/hi";
 import { Link } from 'react-scroll';
 import { TypeAnimation } from 'react-type-animation';
@@ -20,7 +20,15 @@ const Home = () => {
                                 1000,
                                 ' AI Enthusiast',
                                 1000,
-                                ' Math Wizard',
+                                // ' Math Wizard',
+                                // 1000,
+                                // ' Software Engineer',
+                                // 1000,
+                                ' Tech Blogger',
+                                1000,
+                                ' Open Source Contributor',
+                                1000,
+                                ' Problem Solver',
                                 1000
                             ]}
                             wrapper='span'
