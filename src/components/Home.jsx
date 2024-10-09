@@ -20,16 +20,13 @@ const Home = () => {
                                 1000,
                                 ' AI Enthusiast',
                                 1000,
-                                // ' Math Wizard',
-                                // 1000,
-                                // ' Software Engineer',
-                                // 1000,
-                                ' Tech Blogger',
-                                1000,
                                 ' Open Source Contributor',
                                 1000,
                                 ' Problem Solver',
-                                1000
+                                1000,
+                                ' Django Developer',
+                                1000,
+                                ' Tech Blogger',
                             ]}
                             wrapper='span'
                             speed={50}
@@ -37,7 +34,7 @@ const Home = () => {
                         />
                     </h2>
                     <p className='text-gray-500 py-4 max-w-md'>
-                        I am a 2026 graduate with deep interest for programming and math.
+                        I am a Computer Science stud I am a Computer Science student(2026 batch graduating) with deep interest for programming and math.ent(2026 batch graduating) with deep interest for programming and math.                   
                         I love to work on web and AI projects.
                     </p>
                     <div>

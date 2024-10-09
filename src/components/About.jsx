@@ -8,7 +8,7 @@ const About = () => {
                     <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
                 </div>
                 <p className='text-xl mt-20'>
-                    Hello there! I am a passionate coder with a deep interest in Mathematics and Computer Science, and I find great joy in engaging with competitive programming.
+                    Hello there! I am a passionate coder with a deep interest in Mathematics and Computer Science, and I find great joy in engaging in solving problems of Comptetitive Programming.
                     Over the past two years, I have actively participated in coding contests on platforms like Codeforces, CodeChef, and LeetCode.
                 </p>
                 <br />
