@@ -31,6 +31,9 @@ const NavBar = () => {
             <div>
                 <h1 className='text-5xl font-signature ml-2'>Jinesh Modi</h1>
             </div>
+            <a href="/resume.pdf" download className='text-3xl font-signature ml-1'>
+                <span className="text-red-500">Resume</span>
+            </a>
             <ul className='hidden md:flex'>
                 {
                     links.map(
