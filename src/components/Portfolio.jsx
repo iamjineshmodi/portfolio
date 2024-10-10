@@ -1,5 +1,6 @@
 import React from 'react'
 import terminalTypingTest from '../assets/terminal_wpm.png';
+import pollingWebApplication from '../assets/PollingWebPage.png'
 
 const Portfolio = () => {
     const portfolios = [
@@ -12,7 +13,7 @@ const Portfolio = () => {
         },
         {
             id: 2,
-            src: 'https://via.placeholder.com/150',
+            src: pollingWebApplication,
             demo: 'https://github.com/iamjineshmodi/Polling_WebApp',
             code: 'https://github.com/iamjineshmodi/Polling_WebApp',
             title: 'Polling WebApplication',
