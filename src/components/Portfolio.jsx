@@ -1,6 +1,7 @@
 import React from 'react'
 import terminalTypingTest from '../assets/terminal_wpm.png';
 import pollingWebApplication from '../assets/PollingWebPage.png'
+import BitsBidsHomePage from '../assets/BitsBidsHomePage.png'
 
 const Portfolio = () => {
     const portfolios = [
@@ -20,7 +21,7 @@ const Portfolio = () => {
         },
         {
             id: 3,
-            src: 'https://via.placeholder.com/150',
+            src: BitsBidsHomePage,
             demo: 'https://github.com/iamjineshmodi/Frontend---Bitsbids',
             code: 'https://github.com/iamjineshmodi/Backend---Bitsbids',
             title: 'Bitsbids - Live Bidding WebApp ',
