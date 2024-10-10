@@ -10,7 +10,7 @@ const About = () => {
                 </div>
                 <p className='text-xl mt-20'>
                     Hello there! I am a passionate coder with a deep interest in Mathematics and Computer Science, and I find great joy in engaging in solving problems of Comptetitive Programming.
-                    Over the past two years, I have actively participated in coding contests on platforms like Codeforces, CodeChef, and LeetCode.
+                    Over the past two years, I have actively participated in coding contests on platforms like Codeforces (Pupil), CodeChef, and LeetCode.
                 </p>
                 <br />
                 <p className='text-xl mt-5'>

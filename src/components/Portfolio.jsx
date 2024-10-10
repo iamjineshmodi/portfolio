@@ -2,6 +2,7 @@ import React from 'react'
 import terminalTypingTest from '../assets/terminal_wpm.png';
 import pollingWebApplication from '../assets/PollingWebPage.png'
 import BitsBidsHomePage from '../assets/BitsBidsHomePage.png'
+import HarmonixHomePage from '../assets/HarmonixHomePage.png'
 
 const Portfolio = () => {
     const portfolios = [
@@ -14,10 +15,10 @@ const Portfolio = () => {
         },
         {
             id: 2,
-            src: pollingWebApplication,
-            demo: 'https://github.com/iamjineshmodi/Polling_WebApp',
-            code: 'https://github.com/iamjineshmodi/Polling_WebApp',
-            title: 'Polling WebApplication',
+            src: HarmonixHomePage,
+            demo: 'https://github.com/iamjineshmodi/Harmonix-Music-Management',
+            code: 'https://github.com/iamjineshmodi/Harmonix-Music-Management',
+            title: 'Harmonix-Music Management',
         },
         {
             id: 3,
@@ -28,10 +29,10 @@ const Portfolio = () => {
         },
         {
             id: 4,
-            src: 'https://via.placeholder.com/150',
-            demo: 'https://github.com/iamjineshmodi/Harmonix-Music-Management',
-            code: 'https://github.com/iamjineshmodi/Harmonix-Music-Management',
-            title: 'Harmonix-Music Management',
+            src: pollingWebApplication,
+            demo: 'https://github.com/iamjineshmodi/Polling_WebApp',
+            code: 'https://github.com/iamjineshmodi/Polling_WebApp',
+            title: 'Polling WebApplication',
         },
     ];
     return (
