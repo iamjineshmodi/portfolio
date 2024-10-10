@@ -1,5 +1,5 @@
 import React from 'react'
-// hi bye bye
+// hi bye bye bye
 
 const About = () => {
     return (
