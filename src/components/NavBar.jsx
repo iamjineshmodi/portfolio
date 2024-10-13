@@ -31,9 +31,7 @@ const NavBar = () => {
             <div>
                 <h1 className='text-5xl font-signature ml-2'>Jinesh Modi</h1>
             </div>
-            <a href="/resume.pdf" download className='text-3xl font-signature ml-1'>
-                <span className="text-red-500">Resume</span>
-            </a>
+            
             <ul className='hidden md:flex'>
                 {
                     links.map(
@@ -45,6 +43,15 @@ const NavBar = () => {
                     )
                 }
             </ul>
+
+            <div>
+                
+            </div>
+
+            <a href="/resume.pdf" download className='text-3xl font-signature ml-1 underline text-blue-500 hover:text-blue-700'>
+                {'Click Here -> Resume'}
+            </a>
+
             <div onClick={() => setNav(!nav)} className='cursor-pointer pr-4 z-10 text-gray-500 hover:text-white md:hidden'>
                 {nav ? <FaTimes size={30} /> : <FaBars size={30} />}
             </div>
