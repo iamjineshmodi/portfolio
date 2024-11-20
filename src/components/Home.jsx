@@ -1,5 +1,5 @@
 import React from 'react'
-import HeroImage from "../assets/jinesh.png";
+import HeroImage from "../assets/jinesh.jpg";
 import { HiArrowRight } from "react-icons/hi";
 import { Link } from 'react-scroll';
 import { TypeAnimation } from 'react-type-animation';
