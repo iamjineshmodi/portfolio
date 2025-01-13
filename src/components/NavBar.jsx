@@ -45,7 +45,7 @@ const NavBar = () => {
                         )
                     }
                 </ul>
-                <a href="/resume.pdf" download className='px-4 cursor-pointer capitalize font-medium text-gray-500 hover:scale-105 hover:text-white duration-200'>
+                <a href="/Jinesh_Modi_Resume.pdf" download className='px-4 cursor-pointer capitalize font-medium text-gray-500 hover:scale-105 hover:text-white duration-200'>
                     {'Resume'}
                 </a>
             </div>
