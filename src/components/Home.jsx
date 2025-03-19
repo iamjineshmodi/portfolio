@@ -37,7 +37,15 @@ const Home = () => {
                         I am a Computer Science stud I am a Computer Science student(2026 batch graduating)  with deep interest for programming and math.                   
                         I love to work on web and AI projects.
                     </p>
-                    <div>
+                    <div className='flex space-x-4'>
+                        <a href="/Jinesh_Modi_Resume.pdf" download>
+                            <button className='group md:text-xl  text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500  to-blue-500'>
+                                Resume
+                                <span className='group-hover:rotate-90 duration-300 ml-2'>
+                                    <HiArrowRight size={20} />
+                                </span>
+                            </button>
+                        </a>
                         <Link to='portfolio' smooth duration={500}>
                             <button className='group md:text-xl  text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500  to-blue-500'>
                                 Portfolio
