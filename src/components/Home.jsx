@@ -15,18 +15,19 @@ const Home = () => {
                         <TypeAnimation
                             sequence={[
                                 ' Competitive Programmer',
-                                1000,
-                                ' Web Developer',
-                                1000,
-                                ' AI Enthusiast',
-                                1000,
+                                1000, 
                                 ' Open Source Contributor',
                                 1000,
                                 ' Problem Solver',
                                 1000,
                                 ' Django Developer',
                                 1000,
-                                ' Tech Blogger',
+                                ' Fitness Freak',
+                                1000,
+                                ' Web Developer',
+                                1000,
+                                ' AI Enthusiast',
+                                1000
                             ]}
                             wrapper='span'
                             speed={50}
