@@ -1,5 +1,4 @@
 import React from 'react'
-// hi bye bye bye
 
 const About = () => {
     return (
@@ -9,13 +8,19 @@ const About = () => {
                     <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
                 </div>
                 <p className='text-xl mt-20'>
-                    Hello there! I am a passionate coder with a deep interest in Mathematics and Computer Science, and I find great joy in engaging in solving problems of Comptetitive Programming.
-                    Over the past two years, I have actively participated in coding contests on platforms like Codeforces (Pupil), CodeChef, and LeetCode.
+                    I'm a Computer Science student at BITS Pilani with a passion for building impactful software solutions. As a competitive programmer with a Codeforces Pupil rating, I thrive on solving complex algorithmic challenges and translating that problem-solving mindset into real-world applications.
                 </p>
                 <br />
-                <p className='text-xl mt-5'>
-                    I have also delved into the Django framework, utilizing it effectively during various hackathons and in my previous internship. I've had the opportunity to contribute to backend application development, resulting in my code currently being used in production at my previous workplace.
-                    Furthermore, I possess a strong fascination with the field of Artificial Intelligence and its potential applications. This passion drives me to continually explore and learn more about AI.
+                <p className='text-xl'>
+                    My journey spans from optimizing deep learning models for face-swapping applications to architecting scalable data pipelines at Twilio that accelerated customer onboarding by 40%. I've contributed to production systems that serve thousands of users and built full-stack applications that meaningfully improve user experiences.
+                </p>
+                <br />
+                <p className='text-xl'>
+                    Whether it's developing automated monitoring systems, creating comprehensive music management platforms, or diving deep into machine learning architectures, I'm driven by the opportunity to craft elegant solutions to challenging problems. I particularly enjoy the intersection of backend development, AI applications, and system optimization.
+                </p>
+                <br />
+                <p className='text-xl'>
+                    Currently exploring the frontiers of artificial intelligence while continuously honing my skills in competitive programming and full-stack development. Always eager to collaborate on projects that push technological boundaries and create genuine value.
                 </p>
             </div>
         </div>
