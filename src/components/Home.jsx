@@ -35,7 +35,7 @@ const Home = () => {
                         />
                     </h2>
                     <p className='text-gray-500 py-4 max-w-md'>
-                        I am a Computer Science stud I am a Computer Science student(2026 batch graduating)  with deep interest for programming and math.                   
+                        I am a Computer Science stud I am a Computer Science student (2026 batch) with deep interest for programming and math.                   
                         I love to work on web and AI projects.
                     </p>
                     <div className='flex space-x-4'>

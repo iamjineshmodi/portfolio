@@ -8,6 +8,7 @@ import Reacts from '../assets/React.png';
 import Javascript from '../assets/JavaScript.png';
 import Django from '../assets/django.png';
 import Java from '../assets/java.png';
+import typescript from '../assets/typescript.png';
 
 const Experience = () => {
     const techs = [
@@ -73,7 +74,14 @@ const Experience = () => {
             title: 'JavaScript',
             style: 'shadow-yellow-500',
             size: 'w-32'
-        }
+        },
+        {
+            id: 10,
+            src: typescript,
+            title: 'TypeScript',
+            style: 'shadow-green-500',
+            size: 'w-24'
+        },
         
     ];
     return (
