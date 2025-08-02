@@ -4,7 +4,7 @@ import pollingWebApplication from '../assets/PollingWebPage.png'
 import BitsBidsHomePage from '../assets/BitsBidsHomePage.png'
 import HarmonixHomePage from '../assets/HarmonixHomePage.png'
 import AmulHomePage from '../assets/AmulHomePage.png'
-
+import TwilioInternshipProject from '../assets/TwilioInternshipProject.png'
 
 const Portfolio = () => {
     const portfolios = [
@@ -24,20 +24,27 @@ const Portfolio = () => {
         },
         {
             id: 3,
+            src: TwilioInternshipProject,
+            demo: '#',
+            code: '#',
+            title: 'Twilio Internship Project',
+        },
+        {
+            id: 4,
             src: HarmonixHomePage,
             demo: 'https://github.com/iamjineshmodi/Harmonix-Music-Management',
             code: 'https://github.com/iamjineshmodi/Harmonix-Music-Management',
             title: 'Harmonix-Music Management',
         },
         {
-            id: 4,
+            id: 5,
             src: BitsBidsHomePage,
             demo: 'https://github.com/iamjineshmodi/Frontend---Bitsbids',
             code: 'https://github.com/iamjineshmodi/Backend---Bitsbids',
             title: 'Bitsbids - Live Bidding WebApp ',
         },
         {
-            id: 5,
+            id: 6,
             src: pollingWebApplication,
             demo: 'https://github.com/iamjineshmodi/Polling_WebApp',
             code: 'https://github.com/iamjineshmodi/Polling_WebApp',
