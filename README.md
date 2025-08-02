@@ -4,15 +4,15 @@ This is a personal portfolio website to showcase my work, skills, and experience
 
 ## Website Overview
 ### HomePage
-![HomePage_Portfolio](./HomePage_Portfolio.png)
+![HomePage_Portfolio](./readme_images/HomePage_Portfolio.png)
 ### AboutPage
-![AboutPage_Portfolio](./AboutPage_Portfolio.png)
+![AboutPage_Portfolio](./readme_images/AboutPage_Portfolio.png)
 ### Projects
-![Projects_Portfolio](./Projects_Portfolio.png)
+![Projects_Portfolio](./readme_images/Projects_Portfolio.png)
 ### Technologies
-![Technologies_Portfolio](./Technologies_Portfolio.png)
+![Technologies_Portfolio](./readme_images/Technologies_Portfolio.png)
 ### ContactMe
-![ContactMe_Portfolio](./ContactMe_Portfolio.png)
+![ContactMe_Portfolio](./readme_images/ContactMe_Portfolio.png)
 
 ### Experience
 Technologies I have worked with:
