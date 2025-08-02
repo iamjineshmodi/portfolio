@@ -3,37 +3,46 @@ import terminalTypingTest from '../assets/terminal_wpm.png';
 import pollingWebApplication from '../assets/PollingWebPage.png'
 import BitsBidsHomePage from '../assets/BitsBidsHomePage.png'
 import HarmonixHomePage from '../assets/HarmonixHomePage.png'
+import AmulHomePage from '../assets/AmulHomePage.png'
+
 
 const Portfolio = () => {
     const portfolios = [
         {
             id: 1,
+            src: AmulHomePage,
+            demo: 'https://github.com/iamjineshmodi/Amul_Notification',
+            code: 'https://github.com/iamjineshmodi/Amul_Notification',
+            title: 'Amul - Notification System',
+        },
+        {
+            id: 2,
             src: terminalTypingTest,
             demo: 'https://github.com/iamjineshmodi/TerminalTypeTest',
             code: 'https://github.com/iamjineshmodi/TerminalTypeTest',
             title: 'Terminal-based Typing Test Application',
         },
         {
-            id: 2,
+            id: 3,
             src: HarmonixHomePage,
             demo: 'https://github.com/iamjineshmodi/Harmonix-Music-Management',
             code: 'https://github.com/iamjineshmodi/Harmonix-Music-Management',
             title: 'Harmonix-Music Management',
         },
         {
-            id: 3,
+            id: 4,
             src: BitsBidsHomePage,
             demo: 'https://github.com/iamjineshmodi/Frontend---Bitsbids',
             code: 'https://github.com/iamjineshmodi/Backend---Bitsbids',
             title: 'Bitsbids - Live Bidding WebApp ',
         },
         {
-            id: 4,
+            id: 5,
             src: pollingWebApplication,
             demo: 'https://github.com/iamjineshmodi/Polling_WebApp',
             code: 'https://github.com/iamjineshmodi/Polling_WebApp',
-            title: 'Polling WebApplication',
-        },
+            title: 'Polling Web Application',
+        }
     ];
     return (
         <div name="portfolio" className='bg-gradient-to-b from-black to bg-gray-800 w-full text-white
