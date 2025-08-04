@@ -39,8 +39,8 @@ const Work = () => {
     ];
 
     return (
-        <div name='work' className='w-full min-h-screen bg-gradient-to-b from-black to-gray-800 text-white'>
-            <div className='max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full'>
+        <div name="work" className='w-full bg-gradient-to-b from-black to-gray-800 text-white py-20'>
+            <div className='max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full'>
                 <div className='pb-8'>
                     <p className='text-4xl font-bold inline border-b-4 border-gray-500'>
                         Work Experience
@@ -74,10 +74,6 @@ const Work = () => {
                     ))}
                 </div>
             </div>
-        <br />
-        <br />
-        <br />
-        <br />
         </div>
     );
 };
