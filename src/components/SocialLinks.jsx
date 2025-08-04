@@ -1,7 +1,5 @@
 import React from 'react'
-import { FaGithub, FaLinkedin } from "react-icons/fa";
-import { HiOutlineMail } from "react-icons/hi";
-import { BsFillPersonLinesFill } from "react-icons/bs";
+import { Github, Linkedin, Mail, FileText } from "lucide-react";
 
 const SocialLinks = () => {
     const links = [
@@ -9,7 +7,7 @@ const SocialLinks = () => {
             id: 1,
             child: (
                 <>
-                    LinkedIn <FaLinkedin size={30} />
+                    LinkedIn <Linkedin size={30} />
                 </>
             ),
             href: 'https://www.linkedin.com/in/modijinesh/',
@@ -19,7 +17,7 @@ const SocialLinks = () => {
             id: 2,
             child: (
                 <>
-                    GitHub <FaGithub size={30} />
+                    GitHub <Github size={30} />
                 </>
             ),
             href: 'https://github.com/iamjineshmodi',
@@ -28,7 +26,7 @@ const SocialLinks = () => {
             id: 3,
             child: (
                 <>
-                    Mail <HiOutlineMail size={30} />
+                    Mail <Mail size={30} />
                 </>
             ),
             href: 'mailto:jmodi005@gmail.com',
@@ -37,7 +35,7 @@ const SocialLinks = () => {
             id: 4,
             child: (
                 <>
-                    Resume <BsFillPersonLinesFill size={30} />
+                    Resume <FileText size={30} />
                 </>
             ),
             href: '/Jinesh_Modi_Resume.pdf',
